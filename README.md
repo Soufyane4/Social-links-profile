@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [](https://your-live-site-url.com)
+- This is the [Solution URL](https://www.frontendmentor.io/solutions/social-links-profile-cpmIVq9KEq)
+- This is the [Live Site URL](https://soufyane4.github.io/Social-links-profile/)
 
 ## My process
 
